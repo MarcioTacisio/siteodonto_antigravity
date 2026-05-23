@@ -37,47 +37,6 @@ Uma Landing Page ultra moderna, sofisticada e totalmente responsiva desenvolvida
 
 ---
 
-## 🚀 Como Executar Localmente
-
-Como a aplicação é estática e otimizada via CDN, você não precisa instalar nenhuma dependência de build:
-
-1. Clone o repositório em sua máquina:
-   ```bash
-   git clone https://github.com/MarcioTacisio/siteodonto_antigravity.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd mariofono_antigravity
-   ```
-3. Dê um duplo clique no arquivo `index.html` ou use uma extensão de servidor local (como *Live Server* do VS Code) para abrir no seu navegador de preferência.
-
----
-
-## 📦 Como Publicar no GitHub
-
-Caso queira vincular e realizar o push do seu repositório local diretamente no GitHub, execute o arquivo script `publish.bat` (no Windows) ou utilize os seguintes comandos no terminal:
-
-```bash
-# Inicializar o repositório Git local
-git init
-
-# Adicionar todos os arquivos rastreáveis
-git add .
-
-# Realizar o commit inicial de configuração
-git commit -m "chore: add gitignore, env.example and readme documentation"
-
-# Fazer o commit da Landing Page principal
-git commit -m "feat: add premium dental clinic landing page code"
-
-# Configurar a branch padrão como 'main'
-git branch -M main
-
-# Conectar ao repositório remoto do GitHub
-git remote add origin https://github.com/MarcioTacisio/siteodonto_antigravity.git
-
-# Enviar os commits locais para o GitHub
-git push -u origin main
 ```
 
 ---
