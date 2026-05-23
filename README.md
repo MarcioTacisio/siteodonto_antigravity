@@ -43,7 +43,7 @@ Como a aplicação é estática e otimizada via CDN, você não precisa instalar
 
 1. Clone o repositório em sua máquina:
    ```bash
-   git clone https://github.com/MarcioTacisio/mariofono_antigravity.git
+   git clone https://github.com/MarcioTacisio/siteodonto_antigravity.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -74,7 +74,7 @@ git commit -m "feat: add premium dental clinic landing page code"
 git branch -M main
 
 # Conectar ao repositório remoto do GitHub
-git remote add origin https://github.com/MarcioTacisio/mariofono_antigravity.git
+git remote add origin https://github.com/MarcioTacisio/siteodonto_antigravity.git
 
 # Enviar os commits locais para o GitHub
 git push -u origin main
